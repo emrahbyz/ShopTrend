@@ -6,17 +6,16 @@
 body {
   font-family: "Nunito", sans-serif;
 }
+/* .paginate bileşeninin stilini tanımlar */
 .paginate {
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: flex-end; /* Değerini flex-end olarak değiştirin */
 }
+
+/* .paginate bileşenindeki her bir öğenin stilini tanımlar */
 .paginate li {
-  width: 30px;
-  height: 30px;
-  border: 1px solid rgb(131, 119, 119);
-  margin: 5px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end; /* Değerini flex-end olarak değiştirin */
 }
