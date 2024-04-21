@@ -12,7 +12,7 @@ Bu proje, modern ve kullanıcı dostu bir e-ticaret platformu olarak geliştiril
   
 - **Kategori Filtreleme:** Ürünleri kategori bazında filtreleme ve listeleyebilme imkanı sunar.
   
-- **Alışveriş Sepeti Yönetimi:** Kullanıcılar ürünleri sepete ekleyebilir, sepet içeriğini görüntüleyebilir, ürün adedini güncelleyebilir ve satın alma işlemini tamamlayabilir.
+- **Alışveriş Sepeti Yönetimi:** Kullanıcılar ürünleri sepete ekleyebilir, sepet içeriğini görüntüleyebilir, ürün adedini güncelleyebilir.
 
 ## Kullanılan Teknolojiler
 
